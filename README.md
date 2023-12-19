@@ -6,7 +6,7 @@ https://github.com/ValcanKing/Inventory-management-ui.git
 
 This is a repository for Inventory Management System: React, Javascript, Tailwind
 
-![IMS](https://ibb.co/yPHMnpS)
+![IMS](https://github.com/ValcanKing/Inventory-management-ui/blob/master/IMS.png?raw=true)
 
 Key Features:
 
