@@ -1,32 +1,23 @@
 # Inventory Management System: React, Javascript, Tailwind
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
+![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/ValcanKing/Inventory-management-ui.git)
 
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+This is a repository for Inventory Management System: React, Javascript, Tailwind
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
+![alt text](https://ibb.co/yPHMnpS)
 
 Key Features:
 
-- Real-time database  🔗 
-- Notion-style editor 📝 
 - Light and Dark mode 🌓
-- Infinite children documents 🌲
-- Trash can & soft delete 🗑️
+- Log-in page 🌲
 - Authentication 🔐 
-- File upload
-- File deletion
-- File replacement
 - Icons for each document (changes in real-time) 🌠
 - Expandable sidebar ➡️🔀⬅️
 - Full mobile responsiveness 📱
 - Publish your note to the web 🌐
 - Fully collapsable sidebar ↕️
-- Landing page 🛬
-- Cover image of each document 🖼️
-- Recover deleted files 🔄📄
 
 ### Prerequisites
 
