@@ -1,7 +1,7 @@
 # Inventory Management System: React, Javascript, Tailwind
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/ValcanKing/Inventory-management-ui.git)
+![https://ibb.co/yPHMnpS](https://github.com/ValcanKing/Inventory-management-ui.git)
 
 
 This is a repository for Inventory Management System: React, Javascript, Tailwind
