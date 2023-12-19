@@ -20,6 +20,7 @@ Key Features:
 - Fully collapsable sidebar ↕️
 
 ![Login](https://github.com/ValcanKing/Inventory-management-ui/blob/master/Login.png?raw=true)
+
 ![Sign-up Page](https://github.com/ValcanKing/Inventory-management-ui/blob/master/Signup.png?raw=true)
 
 ### Prerequisites
