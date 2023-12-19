@@ -18,8 +18,10 @@ Key Features:
 - Full mobile responsiveness 📱
 - Publish your note to the web 🌐
 - Fully collapsable sidebar ↕️
+
 ![Login](https://github.com/ValcanKing/Inventory-management-ui/blob/master/Login.png?raw=true)
 ![Sign-up Page](https://github.com/ValcanKing/Inventory-management-ui/blob/master/Signup.png?raw=true)
+
 ### Prerequisites
 
 **Node version 18.x.x**
